@@ -1,6 +1,6 @@
 *{
-    margin: 0%;
-    padding: 0%;
+    margin: 0 auto;
+    padding: 0;
 }
 
 .contenedor-padre{
@@ -13,7 +13,7 @@
 .footer-config{
     background-color: rgb(24, 23, 23);
     color: white;
-    padding: 2rem;
+    padding: 3rem;
 }
 .redes-soc a{
     color: white;
